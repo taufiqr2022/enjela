@@ -35,8 +35,8 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'ENJELA-BOT'
-global.author = 'Aguz Familia'
+global.packname = 'Admin-PUSAT.in'
+global.author = 'Tfq.Razman'
 
 global.wait = '_*tunggu..*_'
 
