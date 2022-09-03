@@ -1,1 +1,1 @@
-web: node . --server
+worker: node . --session 'session.admin.json'
